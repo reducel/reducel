@@ -1,10 +1,10 @@
 ### Hi!👋 I'm Alfa
 
-Perkenalkan nama saya **Muhammad Alfarissi Nurdin**.\
+Perkenalkan nama saya **Muhammad Alfarissi Nurdin**.
 
-Saya seorang Mahasiswa **Sitem Informasi** di [Institut Teknologi Telkom Purwokerto](https://ittelkom-pwt.ac.id/).\
+Saya seorang Mahasiswa **Sitem Informasi** di [Institut Teknologi Telkom Purwokerto](https://ittelkom-pwt.ac.id/).
 
-Saya sedang mengikuti Program **Bangkit** dengan penyedia course-nya adalah [Dicoding](https://www.dicoding.com/).\
+Saya sedang mengikuti Program **Bangkit** dengan penyedia course-nya adalah [Dicoding](https://www.dicoding.com/).
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/muhammad-alfarissi-nurdin/)ku ya
 
