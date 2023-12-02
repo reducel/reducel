@@ -2,7 +2,7 @@
 
 Perkenalkan nama saya **Muhammad Alfarissi Nurdin**.
 
-Saya seorang Mahasiswa **Sitem Informasi** di [Institut Teknologi Telkom Purwokerto](https://ittelkom-pwt.ac.id/).
+Saya seorang Mahasiswa **Sistem Informasi** di [Institut Teknologi Telkom Purwokerto](https://ittelkom-pwt.ac.id/).
 
 Saya sedang mengikuti Program **Bangkit** dengan penyedia course-nya adalah [Dicoding](https://www.dicoding.com/).
 
